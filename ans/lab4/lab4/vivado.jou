@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Feb 23 21:46:48 2018
+# Process ID: 10620
+# Current directory: C:/fpga_labs_sp18/lab4/lab4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7740 C:\fpga_labs_sp18\lab4\lab4\lab4.xpr
+# Log file: C:/fpga_labs_sp18/lab4/lab4/vivado.log
+# Journal file: C:/fpga_labs_sp18/lab4/lab4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_hw
+connect_hw_server
+open_hw_target
+current_hw_device [get_hw_devices xc7z020_1]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7z020_1] 0]
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]

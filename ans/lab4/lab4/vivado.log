@@ -1,0 +1,132 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Feb 23 21:46:48 2018
+# Process ID: 10620
+# Current directory: C:/fpga_labs_sp18/lab4/lab4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7740 C:\fpga_labs_sp18\lab4\lab4\lab4.xpr
+# Log file: C:/fpga_labs_sp18/lab4/lab4/vivado.log
+# Journal file: C:/fpga_labs_sp18/lab4/lab4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part www.digilentinc.com:pynq-z1:part0:1.0 available at C:/Xilinx/Vivado/2017.4/data/boards/board_files/pynq-z1/1.0/board.xml as part xc7z020clg400-1 specified in board_part file is either invalid or not available
+open_hw
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.4/data/ip'.
+connect_hw_server
+INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121
+INFO: [Labtools 27-2222] Launching hw_server...
+INFO: [Labtools 27-2221] Launch Output:
+
+****** Xilinx hw_server v2017.4
+  **** Build date : Dec 15 2017-21:08:27
+    ** Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+
+open_hw_target
+INFO: [Labtoolstcl 44-466] Opening hw_target localhost:3121/xilinx_tcf/Digilent/003017A6DEA7A
+open_hw_target: Time (s): cpu = 00:00:02 ; elapsed = 00:00:05 . Memory (MB): peak = 1298.152 ; gain = 521.230
+current_hw_device [get_hw_devices xc7z020_1]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7z020_1] 0]
+INFO: [Labtools 27-1434] Device xc7z020 (JTAG device index = 1) is programmed with a design that has no supported debug core(s) in it.
+WARNING: [Labtools 27-3361] The debug hub core was not detected.
+Resolution: 
+1. Make sure the clock connected to the debug hub (dbg_hub) core is a free running clock and is active.
+2. Make sure the BSCAN_SWITCH_USER_MASK device property in Vivado Hardware Manager reflects the user scan chain setting in the design and refresh the device.  To determine the user scan chain setting in the design, open the implemented design and use 'get_property C_USER_SCAN_CHAIN [get_debug_cores dbg_hub]'.
+For more details on setting the scan chain property, consult the Vivado Debug and Programming User Guide (UG908).
+refresh_hw_device [lindex [get_hw_devices xc7z020_1] 0]
+INFO: [Labtools 27-1434] Device xc7z020 (JTAG device index = 1) is programmed with a design that has no supported debug core(s) in it.
+WARNING: [Labtools 27-3361] The debug hub core was not detected.
+Resolution: 
+1. Make sure the clock connected to the debug hub (dbg_hub) core is a free running clock and is active.
+2. Make sure the BSCAN_SWITCH_USER_MASK device property in Vivado Hardware Manager reflects the user scan chain setting in the design and refresh the device.  To determine the user scan chain setting in the design, open the implemented design and use 'get_property C_USER_SCAN_CHAIN [get_debug_cores dbg_hub]'.
+For more details on setting the scan chain property, consult the Vivado Debug and Programming User Guide (UG908).
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Feb 23 21:49:08 2018...
