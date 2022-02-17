@@ -1,7 +1,7 @@
 //
 // Vivado(TM)
 // rundef.js: a Vivado-generated Runs Script for WSH 5.1/5.6
-// Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+// Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 //
 
 echo "This script was generated under a different operating system."
@@ -12,9 +12,9 @@ var WshShell = new ActiveXObject( "WScript.Shell" );
 var ProcEnv = WshShell.Environment( "Process" );
 var PathVal = ProcEnv("PATH");
 if ( PathVal.length == 0 ) {
-  PathVal = "/opt/Xilinx/SDK/current/bin:/opt/Xilinx/Vivado/current/ids_lite/ISE/bin/lin64;/opt/Xilinx/Vivado/current/ids_lite/ISE/lib/lin64;/opt/Xilinx/Vivado/current/bin;";
+  PathVal = "/opt/Xilinx/SDK/2019.1/bin:/opt/Xilinx/Vivado/2019.1/ids_lite/ISE/bin/lin64;/opt/Xilinx/Vivado/2019.1/bin;";
 } else {
-  PathVal = "/opt/Xilinx/SDK/current/bin:/opt/Xilinx/Vivado/current/ids_lite/ISE/bin/lin64;/opt/Xilinx/Vivado/current/ids_lite/ISE/lib/lin64;/opt/Xilinx/Vivado/current/bin;" + PathVal;
+  PathVal = "/opt/Xilinx/SDK/2019.1/bin:/opt/Xilinx/Vivado/2019.1/ids_lite/ISE/bin/lin64;/opt/Xilinx/Vivado/2019.1/bin;" + PathVal;
 }
 
 ProcEnv("PATH") = PathVal;
@@ -27,7 +27,7 @@ eval( EAInclude(ISEJScriptLib) );
 
 
 // pre-commands:
-ISETouchFile( "init_design", "begin" );
+ISETouchFile( "write_bitstream", "begin" );
 ISEStep( "vivado",
          "-log z1top.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source z1top.tcl -notrace" );
 

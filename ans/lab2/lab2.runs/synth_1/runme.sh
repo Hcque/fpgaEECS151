@@ -3,24 +3,24 @@
 # 
 # Vivado(TM)
 # runme.sh: a Vivado-generated Runs Script for UNIX
-# Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+# Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 # 
 
 if [ -z "$PATH" ]; then
-  PATH=/opt/Xilinx/SDK/current/bin:/opt/Xilinx/Vivado/current/ids_lite/ISE/bin/lin64:/opt/Xilinx/Vivado/current/bin
+  PATH=/opt/Xilinx/SDK/2019.1/bin:/opt/Xilinx/Vivado/2019.1/ids_lite/ISE/bin/lin64:/opt/Xilinx/Vivado/2019.1/bin
 else
-  PATH=/opt/Xilinx/SDK/current/bin:/opt/Xilinx/Vivado/current/ids_lite/ISE/bin/lin64:/opt/Xilinx/Vivado/current/bin:$PATH
+  PATH=/opt/Xilinx/SDK/2019.1/bin:/opt/Xilinx/Vivado/2019.1/ids_lite/ISE/bin/lin64:/opt/Xilinx/Vivado/2019.1/bin:$PATH
 fi
 export PATH
 
 if [ -z "$LD_LIBRARY_PATH" ]; then
-  LD_LIBRARY_PATH=/opt/Xilinx/Vivado/current/ids_lite/ISE/lib/lin64
+  LD_LIBRARY_PATH=
 else
-  LD_LIBRARY_PATH=/opt/Xilinx/Vivado/current/ids_lite/ISE/lib/lin64:$LD_LIBRARY_PATH
+  LD_LIBRARY_PATH=:$LD_LIBRARY_PATH
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='/home/cc/eecs151/sp18/class/eecs151-aaq/fpga_labs_sp18/lab2/lab2.runs/synth_1'
+HD_PWD='/home/hc/Desktop/fpgaEECS151/ans/lab2/lab2.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

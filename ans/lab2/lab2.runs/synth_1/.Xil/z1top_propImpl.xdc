@@ -1,4 +1,4 @@
-set_property SRC_FILE_INFO {cfile:/home/cc/eecs151/sp18/class/eecs151-aaq/fpga_labs_sp18/lab2/lab2.srcs/constrs_1/PYNQ-Z1_C.xdc rfile:../../../lab2.srcs/constrs_1/PYNQ-Z1_C.xdc id:1} [current_design]
+set_property SRC_FILE_INFO {cfile:/home/hc/Desktop/fpgaEECS151/ans/lab2/lab2.srcs/constrs_1/PYNQ-Z1_C.xdc rfile:../../../lab2.srcs/constrs_1/PYNQ-Z1_C.xdc id:1} [current_design]
 set_property src_info {type:XDC file:1 line:8 export:INPUT save:INPUT read:READ} [current_design]
 set_property -dict { PACKAGE_PIN H16   IOSTANDARD LVCMOS33 } [get_ports { CLK_125MHZ_FPGA }]; #IO_L13P_T2_MRCC_35 Sch=sysclk
 set_property src_info {type:XDC file:1 line:13 export:INPUT save:INPUT read:READ} [current_design]

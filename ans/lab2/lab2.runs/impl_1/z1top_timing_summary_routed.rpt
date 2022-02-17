@@ -1,13 +1,13 @@
-Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
----------------------------------------------------------------------------------------------------------------------------------------------------
-| Tool Version : Vivado v.2016.4 (lin64) Build 1733598 Wed Dec 14 22:35:42 MST 2016
-| Date         : Wed Jan 31 19:11:43 2018
-| Host         : c125m-23.EECS.Berkeley.EDU running 64-bit CentOS release 6.9 (Final)
-| Command      : report_timing_summary -warn_on_violation -max_paths 10 -file z1top_timing_summary_routed.rpt -rpx z1top_timing_summary_routed.rpx
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (lin64) Build 2552052 Fri May 24 14:47:09 MDT 2019
+| Date         : Wed Feb 16 16:29:03 2022
+| Host         : hc-VirtualBox running 64-bit Ubuntu 20.04.1 LTS
+| Command      : report_timing_summary -max_paths 10 -file z1top_timing_summary_routed.rpt -pb z1top_timing_summary_routed.pb -rpx z1top_timing_summary_routed.rpx -warn_on_violation
 | Design       : z1top
 | Device       : 7z020-clg400
 | Speed File   : -3  PRODUCTION 1.11 2014-09-11
----------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Timing Summary Report
 
@@ -23,7 +23,8 @@ Timing Summary Report
   Enable Preset / Clear Arcs                 :  No
   Disable Flight Delays                      :  No
   Ignore I/O Paths                           :  No
-  Timing Early Launch at Borrowing Latches   :  false
+  Timing Early Launch at Borrowing Latches   :  No
+  Borrow Time for Max Delay Exceptions       :  Yes
 
   Corner  Analyze    Analyze    
   Name    Max Paths  Min Paths  
@@ -67,7 +68,7 @@ Table of Contents
 
 4. checking unconstrained_internal_endpoints
 --------------------------------------------
- There are 72 pins that are not constrained for maximum delay. (HIGH)
+ There are 71 pins that are not constrained for maximum delay. (HIGH)
 
  There are 0 pins that are not constrained for maximum delay due to constant clock.
 
